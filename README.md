@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy Juan José Ortiz
+# 👋 Hola, soy Juan José Ortiz Rouille
 
 ### Ingeniero de Sistemas | Desarrollador Fullstack | UX/UI designer | Especialista en drones
 
